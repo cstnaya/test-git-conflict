@@ -2,3 +2,7 @@ p {
   padding: 1.5rem;
   font-weight: bold;
 }
+
+h1 {
+  color: red;
+}
